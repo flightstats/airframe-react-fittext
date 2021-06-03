@@ -1,6 +1,6 @@
 {
   "name": "@flightstats/airframe-react-fittext",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
   "main": "./lib/FitText.js",
   "repository": "https://github.com/kennethormandy/react-fittext",
