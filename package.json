@@ -1,5 +1,5 @@
 {
-  "name": "@kennethormandy/react-fittext",
+  "name": "@flightstats/airframe-react-fittext",
   "version": "0.6.0",
   "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
   "main": "./lib/FitText.js",
